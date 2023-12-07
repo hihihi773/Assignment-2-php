@@ -14,4 +14,5 @@
 1. Start XAMPP and ensure both Apache and MySQL services are running.
 2. Clone the repository or download the source code.
    ```bash
-   git clone https://github.com/hihihi773/Assignment-2-php.git
+  
+(https://github.com/hihihi773/Assignment-2-php.git)https://github.com/hihihi773/Assignment-2-php.git
